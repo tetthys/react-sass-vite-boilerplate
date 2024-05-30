@@ -1,8 +1,10 @@
 # Version
 
-| nodejs | vite  | react and react-dom |
-|--------|-------|---------------------|
-| 22     | 5.2.0 | 18.2.0              |
+| nodejs | vite  | sass   | react and react-dom |
+|--------|-------|--------|---------------------|
+| 22     | 5.2.0 | 1.77.3 | 18.2.0              |
+
+If something is outdated, please make a pull request.
 
 # How to use
 
