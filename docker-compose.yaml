@@ -1,0 +1,10 @@
+services:
+  node:
+    container_name: 'react-sass-vite-boilerplate-node'
+    build: './dockerimages/node'
+    volumes:
+      - .:/app
+    ports:
+      - '5173:5173'
+    stdin_open: true
+    tty: true
